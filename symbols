@@ -47,7 +47,6 @@ libbenchmark.so.1:benchmark::internal::GetOutputOptions(bool)
 libbenchmark.so.1:benchmark::internal::InitializeStreams()
 libbenchmark.so.1:benchmark::internal::PerfCounters::Initialize()
 libbenchmark.so.1:benchmark::internal::PerfCounters::operator=(benchmark::internal::PerfCounters&&)
-libbenchmark.so.1:benchmark::internal::RegisterBenchmarkInternal(benchmark::internal::Benchmark*)
 libbenchmark.so.1:std::__detail::_Scanner<char>::_M_eat_escape_ecma()
 libbenchmark.so.1:std::__detail::_Scanner<char>::_M_eat_escape_posix()
 libbenchmark_main.so.1:main
